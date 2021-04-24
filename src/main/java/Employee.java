@@ -28,11 +28,9 @@ public class Employee {
         return name;
     }
 
-
     public String getType() {
         return type;
     }
-
 
     public String toString() {
 
